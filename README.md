@@ -1,5 +1,11 @@
-### Hi, I'm Henry 👋
+### hi, i'm henry 👋
 
-I am a programmer from 📍 Sydney, Australia, currently learning front-end web development.
+i am a front-end developer from 📍 sydney.
 
-Thank you for visiting!
+i'm passionate about designing & building dynamic web sites and applications, so am currently learning technologies like:
+* html
+* css
+* javascript
+* react
+
+thank you for visiting!
