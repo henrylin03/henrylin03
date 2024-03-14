@@ -1,8 +1,9 @@
 # Hi, I'm Henry 👋
-⚖️ I'm a lawyer-turned-business-analyst from Australia who found an absolute love for programming. 
+[Portfolio](henrylin.io) | [LinkedIn](https://www.linkedin.com/in/henrylin03/)
 
-🎨 I want to build beautiful web apps, so am learning the technologies on the front-end. Specifically, I'm learning things like _HTML_, _CSS_, _vanilla JavaScript_ and _React_, and am actively building things with them here. 
+‍<br/>
+💻 I'm a self-taught programmer with a love for designing simple UX, and bringing them to life with code. 
 
-⚙️ I also use Python to grind Leetcode, and script away manual tasks.
+⚙️ I found my love for programming as an analyst/designer; designing, implementing, and maintaining user-centric web applications that automated thousands of hours of work for my customers and colleagues.
 
-Thank you for visiting!
+📖 I'm currently learning HTML, CSS, JavaScript and React, completing [The Odin Project](https://www.theodinproject.com/)'s "Full Stack JavaScript" course.
