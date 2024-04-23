@@ -1,5 +1,5 @@
 # Hi, I'm Henry 👋
-[Portfolio](henrylin.io) | [LinkedIn](https://www.linkedin.com/in/henrylin03/)
+[Portfolio](https://henrylin.io) | [LinkedIn](https://www.linkedin.com/in/henrylin03/)
 
 💻 I'm a self-taught programmer with a love for designing simple UX, and bringing them to life with code. 
 
